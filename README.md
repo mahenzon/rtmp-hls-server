@@ -95,3 +95,5 @@ Released under MIT license.
  * **GitHub repo**: <https://github.com/TareqAlqutami/rtmp-hls-server.git>
 
  * **Docker Hub image**: <https://hub.docker.com/r/alqutami/rtmp-hls>
+
+https://github.com/TareqAlqutami/rtmp-hls-server
